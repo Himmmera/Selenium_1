@@ -15,7 +15,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 
-public class CardAutoTest {
+public class AppOrderPositiveTest {
     WebDriver driver;
 
     @AfterAll
