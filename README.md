@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/lry9iqto7alm6wax?svg=true)](https://ci.appveyor.com/project/Himmmera/selenium-1)
+Selenium_1 [![Java CI with Gradle](https://github.com/Himmmera/Selenium_1/actions/workflows/gradle.yml/badge.svg)](https://github.com/Himmmera/Selenium_1/actions/workflows/gradle.yml)
